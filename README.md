@@ -20,6 +20,7 @@ A simple and interactive Resume Builder created using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+
 ## How to Use
 
 1. Clone the repository to your local machine:
@@ -36,6 +37,7 @@ A simple and interactive Resume Builder created using HTML, CSS, and JavaScript.
 6.Click the "Download" button to save your resume as a PDF.
 
 Demo :- https://jyotish2002.github.io/Resume_Builder/
+![Uploading jyotish.png…]()
 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
