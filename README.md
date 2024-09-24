@@ -24,7 +24,7 @@ A simple and interactive Resume Builder created using HTML, CSS, and JavaScript.
 
 1. Clone the repository to your local machine:
    ```bash
-  git clone https://github.com/yourusername/Resume_Builder.git
+   git clone https://github.com/yourusername/Resume_Builder.git
 2. Navigate to the project directory:
  cd Resume_Builder
 3.Open the index.html file in your web browser.
